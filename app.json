@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e15484bb-6a5f-48bb-8077-860a2617b33c"
+      }
+    },
+    "owner": "adrianlunazzi"
   }
 }
